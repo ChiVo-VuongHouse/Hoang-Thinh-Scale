@@ -7,5 +7,3 @@ Vào project => mở gitbash => nhập npm install để lấy thư viện cho w
 Sau đó nhập ng serve để chạy server
 
 Sau khi chạy xong nhập localhost:4200 trên browser để duyệt
-
-test pull
